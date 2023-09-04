@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="750" src="https://media.tenor.com/xs6oh07BjdQAAAAC/jirachi-what.gif" alt="animated" />
+  <a href="https://susatoss.wordpress.com" target="_blank" rel="noreferrer"> <img width="750" src="https://media.tenor.com/xs6oh07BjdQAAAAC/jirachi-what.gif" alt="animated" />
 </p> 
 
 <details open>
